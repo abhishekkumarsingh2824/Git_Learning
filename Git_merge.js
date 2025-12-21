@@ -8,7 +8,12 @@ const b2 = 33;
 const c2 = a2+b2;
 console.log(c2);
 
-const a3 = 50;
+const a4 = 50;
 const b3 = 30;
-const c3 = a3 - b3;
+const c3 = a4 - b3;
 console.log(c3);
+
+const a5 = 20;
+const b5  = 40;
+const c5 = a5*b5;
+console.log(c5)
