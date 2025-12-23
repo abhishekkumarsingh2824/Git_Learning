@@ -16,4 +16,9 @@ console.log(c3);
 const a5 = 20;
 const b5  = 40;
 const c5 = a5*b5;
-console.log(c5)
+console.log(c5);
+
+console.log("Latest Changes");
+
+
+console.log("Second Latest");
