@@ -22,3 +22,5 @@ console.log("Latest Changes");
 
 
 console.log("Second Latest");
+
+console.log("Bug_Fixed");
